@@ -31,7 +31,7 @@ export default function Checkout({}: Props): ReactElement {
             <IconCheckSuccess />
             <h2>Your Order Is Almost Successful</h2>
             <h2>Please Forward PDF File To Complete Your Order</h2>
-            <h2> WhatApp : +91 7010869016 Or Email To : vigneshwaran2795@gmail.com</h2>
+            <h2> WhatApp : +91 7010869016 Or Email To : vignesh.crackersfireworks@gmail.com</h2>
             <p>Thank you for shopping with us</p>
             <SButtonContainer>
               <Link href="/orders" passHref>

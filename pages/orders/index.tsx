@@ -21,7 +21,7 @@ export default function Orders({}: Props): ReactElement {
           <SSectionHeading>Contact Details</SSectionHeading>
         </SOrderHeader>
         <SOrderContainer>
-        WhatApp : +91 7010869016 Or Email To : vigneshwaran2795@gmail.com
+        WhatApp : +91 7010869016 Or Email To : vignesh.crackersfireworks@gmail.com
         <LinkMain href="/">Back To Shopping</LinkMain>
         </SOrderContainer>
         <Menu />
