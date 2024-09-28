@@ -82,14 +82,14 @@ export default function Cart({}: Props): ReactElement {
                   <SCheckoutText>Item Total </SCheckoutText>
                   <SCheckoutText>{total.toFixed(2)} </SCheckoutText>
                 </STextContainer>
-                <STextContainer>
+                {/* <STextContainer>
                   <SCheckoutText>Delivery </SCheckoutText>
                   <SCheckoutText>30 </SCheckoutText>
-                </STextContainer>
+                </STextContainer> */}
                 <STextContainer>
                   <SCheckoutTotalText>Grand Total </SCheckoutTotalText>
                   <SCheckoutTotalText>
-                    {(total + 30).toFixed(2)}
+                    {(total + 0).toFixed(2)}
                   </SCheckoutTotalText>
                 </STextContainer>
               </SCheckoutHeader>
