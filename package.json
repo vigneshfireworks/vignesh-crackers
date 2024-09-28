@@ -1,5 +1,5 @@
 {
-  "name": "dukaan-clone",
+  "name": "vignesh-crackers",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -17,11 +17,6 @@
     "react-to-print": "^2.15.1",
     "styled-components": "^5.2.1",
     "yarn": "^1.22.22"
-  },
-  "author": {
-    "email": "abhagsain@gmail.com",
-    "name": "Anurag Bhagsain",
-    "url": "https://anuragbhagsain.com"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
