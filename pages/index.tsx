@@ -21,7 +21,7 @@ export default function Home({
   top_products,
 }: HomeProps): ReactElement {
   return (
-    <Layout title="Vignesh - Online Cracker Quation">
+    <Layout title="Vignesh - Online Cracker Quotation">
       <OuterContainer>
         <SearchBar />
         <SSpacer />
