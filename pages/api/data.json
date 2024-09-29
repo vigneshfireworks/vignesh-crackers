@@ -153,7 +153,7 @@
     {
       "id": 707,
       "name": "NEW MAGIC SPARKLERS",
-      "image":"../images/heartsparklers.png",
+      "image":"../images/heartsparklers.jpeg",
       "product_count": 3
     },
     {
@@ -1291,7 +1291,7 @@
         },
         {
           "is_hidden": false,
-          "id": 156217,
+          "id": 1562171,
           "base_cost": 1000,
           "original_cost": 5000,
           "base_qty": "per unit",
@@ -1602,7 +1602,7 @@
       "products": [
         {
           "is_hidden": false,
-          "id": 1809,
+          "id": 18091,
           "base_cost": 55,
           "original_cost": 275,
           "base_qty": "1 unit",
@@ -1614,7 +1614,7 @@
         },
         {
           "is_hidden": false,
-          "id": 1458,
+          "id": 14581,
           "base_cost": 55,
           "original_cost": 275,
           "base_qty": "per unit",
@@ -1626,7 +1626,7 @@
         },
         {
           "is_hidden": false,
-          "id": 1465,
+          "id": 14651,
           "base_cost": 60,
           "original_cost": 300,
           "base_qty": "per unit",
@@ -1638,7 +1638,7 @@
         },
         {
           "is_hidden": false,
-          "id": 1433,
+          "id": 14331,
           "base_cost": 60,
           "original_cost": 300,
           "base_qty": "1 unit",
@@ -1747,7 +1747,7 @@
           "base_cost": 250,
           "original_cost": 1250,
           "base_qty": "1 piece",
-          "image": "/../images/heartsparklers.png",
+          "image": "/../images/heartsparklers.jpeg",
           "name": "HEART SPARKLERS (5PCS)",
           "description": "",
           "is_active": true,
@@ -2964,7 +2964,7 @@
         },
         {
           "is_hidden": false,
-          "id": 156217,
+          "id": 1562171,
           "base_cost": 1000,
           "original_cost": 5000,
           "base_qty": "per unit",
@@ -3275,7 +3275,7 @@
       "products": [
         {
           "is_hidden": false,
-          "id": 1809,
+          "id": 18091,
           "base_cost": 55,
           "original_cost": 275,
           "base_qty": "1 unit",
@@ -3287,7 +3287,7 @@
         },
         {
           "is_hidden": false,
-          "id": 1458,
+          "id": 14581,
           "base_cost": 55,
           "original_cost": 275,
           "base_qty": "per unit",
@@ -3299,7 +3299,7 @@
         },
         {
           "is_hidden": false,
-          "id": 1465,
+          "id": 14651,
           "base_cost": 60,
           "original_cost": 300,
           "base_qty": "per unit",
@@ -3311,7 +3311,7 @@
         },
         {
           "is_hidden": false,
-          "id": 1433,
+          "id": 14331,
           "base_cost": 60,
           "original_cost": 300,
           "base_qty": "1 unit",
@@ -3420,7 +3420,7 @@
           "base_cost": 250,
           "original_cost": 1250,
           "base_qty": "1 piece",
-          "image": "/../images/heartsparklers.png",
+          "image": "/../images/heartsparklers.jpeg",
           "name": "HEART SPARKLERS (5PCS)",
           "description": "",
           "is_active": true,
