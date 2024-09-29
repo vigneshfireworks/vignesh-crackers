@@ -22,6 +22,13 @@ export default function Home({
 }: HomeProps): ReactElement {
   return (
     <Layout title="Vignesh - Online Cracker Quotation">
+      <div>
+      <SCategoryImage
+              src={`/images/4.jpg`}
+              alt=""
+              srcSet={'/images/4.jpg'}
+            />
+      </div>
       <OuterContainer>
         <SearchBar />
         <SSpacer />
@@ -50,4 +57,24 @@ export const SSectionHeading = styled.h2`
 `;
 const SSpacer = styled.div`
   margin-top: ${({ theme }) => theme.spacing["6"]};
+`;
+export const SCategoryImage = styled.img`
+vertical-align: bottom;
+    border-radius: 0.5rem;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: sticky;
+    /* top: 0px; */
+    /* left: 25px; */
+    width: 20%;
+    background-color: rgb(255, 255, 255);
+    padding: 1rem 0px;
+    z-index: 1000;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
 `;
